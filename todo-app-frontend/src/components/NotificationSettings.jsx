@@ -67,7 +67,7 @@ const NotificationSettings = () => {
               </div>
               
               <div className="pt-4 border-t border-gray-200 text-center text-sm text-gray-500">
-                <div className="mb-1">License EULA</div>
+                <div className="mb-1">License MIT</div>
                 <div>Version 1.0.0</div>
               </div>
             </div>
